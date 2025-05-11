@@ -16,11 +16,11 @@ All the modifications and settings are saved in the ./20250511_shareskill.ovito
 - Histogram: for phase determination
 - Adjust view
 - Displacement vector: structure optimization, or defect induced structural distortion
-
-
+\
+\
 - Data source: file name, automatch, color
-
-
+\
+\
 - Compute properties: “Transparency” 0.5
 - Create bonds: for visualization
 
