@@ -1,0 +1,7 @@
+20250511_shareskill.ovito: the saved session, can be loaded in ovito
+2025_ovito_skillshare.odp: a list of modifications, and demostration of effects
+dipoRavg.gif: animation
+dipoRavgs.ovt: several time frames from feram simulations
+highresolution.png: high resolution image
+initial_equatorialvacancy.lmp: structure before relaxation, which can be read in as reference coordinate for displacement analysis
+minimization_round_10.lmp: structure after relaxation
